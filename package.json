@@ -4,5 +4,11 @@
   "description": "JavScript関数型プログラミング写経",
   "main": "index.js",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "tape": "^4.9.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
 }
