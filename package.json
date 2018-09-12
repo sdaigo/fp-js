@@ -1,0 +1,8 @@
+{
+  "name": "fp-js",
+  "version": "1.0.0",
+  "description": "JavScript関数型プログラミング写経",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true
+}
